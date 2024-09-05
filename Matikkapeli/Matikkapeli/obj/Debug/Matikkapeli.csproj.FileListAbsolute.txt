@@ -1,0 +1,51 @@
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.exe.config
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.exe
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.pdb
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.AssemblyReference.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.Form1.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.Properties.Resources.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.GenerateResource.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.CoreCompileInputs.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.exe
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.pdb
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.PlusPeli.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.PlusTulokset.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.MiinusPeli.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.TuloksetPohja.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.MiinusTulokset.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.KertoPeli.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\17_Lopputyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.KertoTulokset.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.exe.config
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.exe
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.pdb
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.AssemblyReference.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.Form1.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.KertoPeli.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.KertoTulokset.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.MiinusPeli.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.MiinusTulokset.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.PlusPeli.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.PlusTulokset.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.Properties.Resources.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.TuloksetPohja.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.GenerateResource.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.CoreCompileInputs.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.exe
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\120_Omatyo\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.pdb
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.AssemblyReference.cache
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.Form1.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.KertoPeli.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.KertoTulokset.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.MiinusPeli.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.MiinusTulokset.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.PlusPeli.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.PlusTulokset.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.TuloksetPohja.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.GenerateResource.cache
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.exe
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.pdb
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.exe.config
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.exe
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\bin\Debug\Matikkapeli.pdb
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.Properties.Resources.resources
+C:\Users\varti\Desktop\Matikkapeli\Matikkapeli\obj\Debug\Matikkapeli.csproj.CoreCompileInputs.cache
