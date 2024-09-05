@@ -1,0 +1,10 @@
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\varti\Desktop\kouluohjelmisto\Graafiset käyttöliittymät\graafiset-k-ytt-liittym-t-gr289447\16_Laskin\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
