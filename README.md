@@ -9,7 +9,7 @@ I am a student of Information and Communication Technology (ICT) with a strong f
 - **Programming Languages:**
   - C#
   - Python
-  - HTML, CSS, JavaScript (Basics)
+  - HTML, CSS, JavaScript
 
 ## **Education**
 
