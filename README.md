@@ -13,9 +13,9 @@ I am a student of Information and Communication Technology (ICT) with a strong f
 
 ## **Education**
 
-- **[Information and Communication Technology]**  
-  [Gradia]  
-  [Expected Graduation Date 05/31/2025]
+- **Information and Communication Technology**  
+  Gradia  
+  Expected Graduation Date 05/31/2025
 
 ## **Projects**
 
@@ -27,4 +27,4 @@ A basic calculator application that performs simple arithmetic operations like a
 
 ## **Contact Information**
 
-- **Email:** [vartiainen.valtteri@gmail.com]
+- **Email:** vartiainen.valtteri@gmail.com
