@@ -2,7 +2,7 @@
 
 ## **About Me**
 
-I am a student of Information and Communication Technology (ICT) with a strong foundation in programming and web development. I have hands-on experience in various programming languages and technologies, which I've utilized in both academic projects and personal development.
+I am a student of Information and Communication Technology (ICT) with a strong foundation in programming and web development. I have hands-on experience in various programming languages and technologies, which I've utilized in both academic projects and personal development. I am eager to continue learning and challenging myself to grow both professionally and personally, embracing new technologies and tackling complex problems to further enhance my skills and knowledge.
 
 ## **Skills**
 
